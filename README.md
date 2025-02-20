@@ -7,10 +7,14 @@
 
 
 #### 💼 Favorite Projects:
-- 📈 **Data Analysis:**  
+ 📈 **Data Analysis:**  
   - [Restaurant Database Analysis](https://github.com/Sabdikay/SQL-Project)
   - [Telco Customer Churn Analysis IBM Dataset](https://github.com/Sabdikay/Telco-Customer-Churn-Analysis-IBM-Dataset)
-  - [Biodiversity in National Parks](https://github.com/Sabdikay/Analysis-of-Biodiversity)  
+  - [Biodiversity in National Parks](https://github.com/Sabdikay/Analysis-of-Biodiversity)
+
+🔧 **Software Engineering:**
+  - [Network Service Application](https://github.com/Sabdikay/Network-Service-application)
+  - [Connect4 with ability to play with AI](https://github.com/Sabdikay/Connect4)
 
 #### 📬 Let's Connect!
   
