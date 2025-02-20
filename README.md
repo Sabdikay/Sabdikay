@@ -6,8 +6,8 @@
 🎓 Field of Study: Computer Science and Artificial Intelligence
 
 
-#### 💼 Favourite Projects:
-- 📈 **Data Analisys:**  
+#### 💼 Favorite Projects:
+- 📈 **Data Analysis:**  
   - [Restaurant Database Analysis](https://github.com/Sabdikay/SQL-Project)
   - [Telco Customer Churn Analysis IBM Dataset](https://github.com/Sabdikay/Telco-Customer-Churn-Analysis-IBM-Dataset)
   - [Biodiversity in National Parks](https://github.com/Sabdikay/Analysis-of-Biodiversity)  
