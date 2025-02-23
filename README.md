@@ -10,11 +10,14 @@
  📈 **Data Analysis:**  
   - [Restaurant Database Analysis](https://github.com/Sabdikay/SQL-Project)
   - [Telco Customer Churn Analysis IBM Dataset](https://github.com/Sabdikay/Telco-Customer-Churn-Analysis-IBM-Dataset)
+  - [Airbnb Europe](https://github.com/Sabdikay/Airbnb-Europe)
   - [Biodiversity in National Parks](https://github.com/Sabdikay/Analysis-of-Biodiversity)
+  - [Bitcoin vs S&P 500 Analysis](https://github.com/Sabdikay/Bitcoin-Analysis)
 
 🔧 **Software Engineering:**
   - [Network Service Application](https://github.com/Sabdikay/Network-Service-application)
   - [Connect4 with ability to play with AI](https://github.com/Sabdikay/Connect4)
+  - [Printed Circuit Board](https://github.com/Sabdikay/Printed-Circuit-Board)
 
 #### 📬 Let's Connect!
   
