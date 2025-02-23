@@ -41,11 +41,11 @@
 
 ## 📊GitHub Stats
 
-![Sabdikay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sabdikay&show_icons=true&theme=ocean_dark)
+![Sabdikay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sabdikay&show_icons=true&theme=ocean_da)
 
 
 ## Programming languages statistics
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sabdikay&size_weight=0.25&count_weight=0.75&theme=ocean_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sabdikay&size_weight=0.25&count_weight=0.75&theme=ocean_da)
 
 
 #### 🔧 Languages & Tools
