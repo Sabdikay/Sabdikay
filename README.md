@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Alnur
-- I'm a Junior BI/Data Analyst with a passion for turning raw data into meaningful insights. I actively enhance my skills through various assignments and projects, constantly learning and evolving in the field of data analytics.
+- I'm a Junior AI Developer/Data Analyst with a passion for turning raw data into meaningful insights. I actively enhance my skills through various assignments and projects, constantly learning and evolving in the field of data analytics.
 
 📍 Location: Ingolstadt, Germany
 
