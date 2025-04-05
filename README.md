@@ -8,6 +8,7 @@
 
 #### 💼 Favorite Projects:
  📈 **Data Analysis:**  
+  - [Telco Customer Churn Predictive Models](https://github.com/Sabdikay/Telco-Customer-Churn-Prediction-IBM-Dataset)
   - [Restaurant Database Analysis](https://github.com/Sabdikay/SQL-Project)
   - [Telco Customer Churn Analysis IBM Dataset](https://github.com/Sabdikay/Telco-Customer-Churn-Analysis-IBM-Dataset)
   - [Airbnb Europe](https://github.com/Sabdikay/Airbnb-Europe)
